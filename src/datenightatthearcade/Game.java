@@ -13,7 +13,7 @@ public class Game {
     }
 
     //Creata a playGame method with the card objects
-    public void palyGame(Card c) {
+    public void playGame(Card c) {
         if (c.getCreditBalance() < getCreditNeeded()) {
             System.out.println("Insufficient credits for card number " + c.getCardId());
             c.getTicketBalance();
