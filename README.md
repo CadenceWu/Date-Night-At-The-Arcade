@@ -1,3 +1,5 @@
+-> Downlad "DateNightAtTheArcade.jar & Run.bat"
+-> Double click "Run.bat" to see the result.
 
 1. Card: 
    * Cards store information about their current credit balance, ticket balance, and card number.
