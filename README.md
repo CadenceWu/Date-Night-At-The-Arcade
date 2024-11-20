@@ -1,6 +1,7 @@
 -> Downlad "DateNightAtTheArcade.jar & Run.bat"
 -> Double click "Run.bat" to see the result.
 
+Project description:
 1. Card: 
    * Cards store information about their current credit balance, ticket balance, and card number.
    * Every card is created with a unique integer identification number by itself.
